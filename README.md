@@ -1,12 +1,11 @@
-
-LuxAI
+# LuxAI
 
 LuxAI is a Discord bot that powers a virtual world for fictional characters. Users can observe the world and "play as God," witnessing characters interact independently while following their given prompts.
 
 
----
 
-Features
+
+## Features
 
 Dynamic Virtual World: Characters interact and evolve independently.
 
@@ -18,9 +17,8 @@ Customizable Rules: Define unique behaviors and constraints for each character.
 
 
 
----
 
-Installation
+## Installation
 
 1. Clone the repository:
 
@@ -43,9 +41,9 @@ OPENAI_API_KEY=your_openai_api_key
 
 
 
----
+ 
 
-Usage
+# Usage
 
 1. Run the bot:
 
@@ -62,9 +60,9 @@ node src/bot.js
 
 
 
----
+ 
 
-Roadmap
+# Roadmap
 
 Add more character customization.
 
@@ -76,16 +74,16 @@ Implement memory and persistence for characters.
 
 
 
----
+ 
 
-License
+# License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
----
+ 
 
-Contributing
+# Contributing
 
 Contributions are welcome! Fork the repository and create a pull request with your ideas or fixes.
 

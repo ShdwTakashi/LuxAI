@@ -1,0 +1,12 @@
+{
+  "name": "luxai",
+  "version": "1.0.0",
+  "description": "LuxAI is a Discord bot that powers a virtual world for fictional characters. Users can observe the world and \"play as God,\" witnessing characters interact independently while following their given prompts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
